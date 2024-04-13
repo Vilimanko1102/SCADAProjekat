@@ -24,15 +24,13 @@ namespace Modbus.ModbusFunctions
         /// <inheritdoc />
         public override byte[] PackRequest()
         {
-            //TO DO: IMPLEMENT
-            throw new NotImplementedException();
-        }
+			return PackRequestHelper.ReadModbusFunctionPackRequest(CommandParameters);
+		}
 
         /// <inheritdoc />
         public override Dictionary<Tuple<PointType, ushort>, ushort> ParseResponse(byte[] response)
         {
-            //TO DO: IMPLEMENT
-            throw new NotImplementedException();
-        }
+			return ParseResponseHelper.AnalogReadModbusFunctionParseResponse(response, PointType.ANALOG_INPUT, CommandParameters);
+		}
     }
 }
