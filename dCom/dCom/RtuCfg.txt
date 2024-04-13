@@ -2,6 +2,6 @@ STA 1
 TCP 57628
 
 
-HR_INT  4 3600  0  0   4095  1200  AO  @AnaOut #
-IN_REG  3 2900  0  0   4095  2000  AI  @AnaIn  #
-DO_REG  1 4300   0  0      1     0  DO  @DigOut #
+HR_INT  4 3600  0  0   4095  1200  AO  @AnaOut 4
+IN_REG  3 2900  0  0   4095  2000  AI  @AnaIn  4
+DO_REG  1 4300  0  0      1     0  DO  @DigOut 2
