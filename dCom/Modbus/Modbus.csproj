@@ -49,6 +49,8 @@
     <Compile Include="FunctionParameters\ModbusReadCommandParameters.cs" />
     <Compile Include="FunctionParameters\ModbusWriteCommandParameters.cs" />
     <Compile Include="ModbusFunctions\ModbusFunction.cs" />
+    <Compile Include="ModbusFunctions\PackRequestHelper.cs" />
+    <Compile Include="ModbusFunctions\ParseResponseHelper.cs" />
     <Compile Include="ModbusFunctions\ReadCoilsFunction.cs" />
     <Compile Include="ModbusFunctions\ReadDiscreteInputsFunction.cs" />
     <Compile Include="ModbusFunctions\ReadHoldingRegistersFunction.cs" />

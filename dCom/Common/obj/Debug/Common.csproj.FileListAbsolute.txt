@@ -9,3 +9,9 @@ C:\Users\Korisnik\Desktop\dCom\Common\obj\Debug\Common.csproj.AssemblyReference.
 C:\Users\Korisnik\Desktop\dCom\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\Korisnik\Desktop\dCom\Common\obj\Debug\Common.dll
 C:\Users\Korisnik\Desktop\dCom\Common\obj\Debug\Common.pdb
+C:\Users\Korisnik\Source\Repos\gp\dCom\Common\bin\Debug\Common.dll
+C:\Users\Korisnik\Source\Repos\gp\dCom\Common\bin\Debug\Common.pdb
+C:\Users\Korisnik\Source\Repos\gp\dCom\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Source\Repos\gp\dCom\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Source\Repos\gp\dCom\Common\obj\Debug\Common.dll
+C:\Users\Korisnik\Source\Repos\gp\dCom\Common\obj\Debug\Common.pdb
